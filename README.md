@@ -8,4 +8,7 @@ Uses:
 - resnet architecture with 18 layers
 - Azure Bing for image data
 
-Binder: https://hub.gke2.mybinder.org/user/manthony9-fastaidogpredictor-e0jv5o38/tree
+
+Reference: https://www.fast.ai/
+
+Note: This program has been coded as part of Lesson 1/2 from FastAI. 
